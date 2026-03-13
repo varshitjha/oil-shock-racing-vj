@@ -1,6 +1,6 @@
 # ⚡ Oil Shock Racing
 
-> Oil price shock simulation platform by ZeTheta Algorithms.
+> Oil price shock simulation platform.
 
 ## Quick Start
 ```bash
