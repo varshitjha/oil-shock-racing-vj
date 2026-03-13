@@ -21,4 +21,4 @@ src/
 ```
 
 ## Confidential
-All code is property of ZeTheta Algorithms Private Limited.
+This is a property of varshitjha.
